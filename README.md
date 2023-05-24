@@ -1,7 +1,7 @@
 <h2> Hi, I'm Eric! <img src="orb.gif" width="20"></h2>
 <img align='right' src="asuka-magician.gif" width="180">
-<p><em>Computer Science student at <a href="https://bcc.dc.ufscar.br/">UFSCar</a>
-</em></p>
+<p><em>Computer Science student at <a href="https://bcc.dc.ufscar.br/">UFSCar</a></em></p>
+<p><em>Inconsistent Writer at <a href="https://medium.com/@ericpqmor">Medium</a></em></p>
 
 [![Twitter: ericpqmor](https://img.shields.io/twitter/follow/ericpqmor?style=social)](https://twitter.com/ericpqmor)
 [![Linkedin: ericpqmor](https://img.shields.io/badge/-ericpqmor-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eric-moreira-4271b6232/)](https://www.linkedin.com/in/eric-moreira-4271b6232/)
