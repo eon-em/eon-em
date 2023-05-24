@@ -1,14 +1,14 @@
 <h2> Hi, I'm Eric! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://tenor.com/bhD8TU6o9U0.gif" width="230">
-<p><em>Computer Science student at <a href="https://bcc.dc.ufscar.br/">UFSCar</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
+<img align='right' src="https://tenor.com/pt-BR/view/asuka-asuka-r-dopplekreuz-asuka-r-kreutz-asuka-ggst-asuka-r-kreuts-ggst-gif-1110144068014716402" width="230">
+<p><em>Computer Science student at <a href="https://bcc.dc.ufscar.br/">UFSCar</a>
 </em></p>
 
 [![Twitter: ericpqmor](https://img.shields.io/twitter/follow/ericpqmor?style=social)](https://twitter.com/ericpqmor)
 [![Linkedin: ericpqmor](https://img.shields.io/badge/-ericpqmor-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eric-moreira-4271b6232/)](https://www.linkedin.com/in/eric-moreira-4271b6232/)
-[![GitHub Thaiane](https://img.shields.io/github/followers/ericpqmor?label=follow&style=social)](https://github.com/ericpqmor)
+[![GitHub ericpqmor](https://img.shields.io/github/followers/ericpqmor?label=follow&style=social)](https://github.com/ericpqmor)
 
 
-### <img src="https://giphy.com/stickers/astrology-horoscope-trapbob-l10UxtKJ14KnBB3Rs0" width="50"> A little more about me...  
+### <img src="" width="50"> A little more about me...  
 
 ```javascript
 const eric = {
