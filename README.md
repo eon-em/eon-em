@@ -1,5 +1,5 @@
-<h2> Hi, I'm Eric! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://tenor.com/pt-BR/view/asuka-asuka-r-dopplekreuz-asuka-r-kreutz-asuka-ggst-asuka-r-kreuts-ggst-gif-1110144068014716402" width="230">
+<h2> Hi, I'm Eric! <img src="orb.gif" width="20"></h2>
+<img align='right' src="asuka-magician.gif" width="230">
 <p><em>Computer Science student at <a href="https://bcc.dc.ufscar.br/">UFSCar</a>
 </em></p>
 
@@ -8,7 +8,7 @@
 [![GitHub ericpqmor](https://img.shields.io/github/followers/ericpqmor?label=follow&style=social)](https://github.com/ericpqmor)
 
 
-### <img src="" width="50"> A little more about me...  
+### <img src="glitchy-htb.gif" width="20"> A little more about me...  
 
 ```javascript
 const eric = {
