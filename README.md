@@ -5,7 +5,7 @@
 
 [![Twitter: ericpqmor](https://img.shields.io/twitter/follow/ericpqmor?style=social)](https://twitter.com/ericpqmor)
 [![Linkedin: ericpqmor](https://img.shields.io/badge/-ericpqmor-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eric-moreira-4271b6232/)](https://www.linkedin.com/in/eric-moreira-4271b6232/)
-[![GitHub eon-gg](https://img.shields.io/github/followers/eon-gg?label=follow&style=social)](https://github.com/eon-gg)
+[![GitHub eon-em](https://img.shields.io/github/followers/eon-em?label=follow&style=social)](https://github.com/eon-em)
 
 
 ### <img src="glitchy-htb.gif" width="20"> A little more about me...  
