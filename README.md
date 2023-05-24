@@ -1,5 +1,5 @@
 <h2> Hi, I'm Eric! <img src="orb.gif" width="20"></h2>
-<img src="asuka-magician.gif" width="230">
+<img align='right' src="asuka-magician.gif" width="230">
 <p><em>Computer Science student at <a href="https://bcc.dc.ufscar.br/">UFSCar</a>
 </em></p>
 
@@ -10,12 +10,13 @@
 
 ### <img src="glitchy-htb.gif" width="20"> A little more about me...  
 
-```javascript
-const eric = {
-  pronouns: "he" | "him",
-  code: [Python, Javascript, Typescript, C, C++, Golang, C#],
-  tools: [Node, Docker, Kubernetes, Jenkins, Django, Flask, React, Redux, GraphQL],
-  architecture: ["microservices", "event-driven", "design system pattern"],
+```python
+eric = {
+  "pronouns": ["he", "him"],
+  "interests": ["back-end development", "information security"],
+  "code": ["Python", "JavaScript", "Typescript", "Bash", "C", "C++", "C#", "Golang", "Cuda", "Lua", "Rust", "SQL", "Shell", "Matlab"],
+  "tools": ["Node", "Docker", "Kubernetes", "Jenkins", "Django", ".NET", "React", "Redux", "GraphQL", "React Native", "Cocos2D", "Unity"]
+}
 ```
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I am currently open to work, so feel free to reach out to me!</b> :)</em>
