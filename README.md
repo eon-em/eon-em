@@ -1,5 +1,5 @@
 <h2> Hi, I'm Eric! <img src="orb.gif" width="20"></h2>
-<img align='right' src="asuka-magician.gif" width="230">
+<img align='right' src="asuka-magician.gif" width="180">
 <p><em>Computer Science student at <a href="https://bcc.dc.ufscar.br/">UFSCar</a>
 </em></p>
 
