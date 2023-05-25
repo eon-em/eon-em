@@ -15,7 +15,7 @@ eric = {
   "pronouns": ["he", "him"],
   "interests": ["back-end development", "information security"],
   "code": ["Python", "JavaScript", "Typescript", "Bash", "C", "C++", "C#", "Golang", "Cuda", "Lua", "Rust", "SQL", "Shell", "Matlab"],
-  "tools": ["Node", "Docker", "Kubernetes", "Jenkins", "Django", ".NET", "React", "Redux", "GraphQL", "React Native", "Cocos2D", "Unity"]
+  "tools": ["Node", "Docker", "Kubernetes", "AWS", "Terraform", "Jenkins", "Django", ".NET", "React", "Redux", "GraphQL", "React Native", "Cocos2D", "Unity"]
 }
 ```
 
