@@ -1,5 +1,5 @@
 <h2> Hi, I'm Eric! <img src="orb.gif" width="20"></h2>
-<img align='right' src="byak.gif" width="180">
+<img align='right' src="byak.gif" width="220">
 <p><em>Cloud Software Engineer at <a href="https://www.magazineluiza.com.br/">Luizalabs</a></em></p>
 <p><em>Inconsistent Writer at <a href="https://medium.com/@ericpqmor">Medium</a></em></p>
 
