@@ -7,7 +7,7 @@
 [![Linkedin: ericpqmor](https://img.shields.io/badge/-ericpqmor-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eric-moreira-4271b6232/)](https://www.linkedin.com/in/eric-moreira-4271b6232/)
 [![GitHub eon-em](https://img.shields.io/github/followers/eon-em?label=follow&style=social)](https://github.com/eon-em)
 
-### <img src="htb.gif" width="20"> A little more about me...  
+### <img src="byak.gif" width="20"> A little more about me...  
 
 ```python
 eric = {
